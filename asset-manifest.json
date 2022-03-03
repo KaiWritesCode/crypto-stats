@@ -1,14 +1,14 @@
 {
   "files": {
-    "main.css": "/crypto-stats/static/css/main.a2612546.css",
-    "main.js": "/crypto-stats/static/js/main.8a420df3.js",
+    "main.css": "/crypto-stats/static/css/main.570335ff.css",
+    "main.js": "/crypto-stats/static/js/main.15940ae8.js",
     "static/media/cryptocurrency-golden-bitcoin-image.jpeg": "/crypto-stats/static/media/cryptocurrency-golden-bitcoin-image.cef46d843b85699d5e07.jpeg",
     "index.html": "/crypto-stats/index.html",
-    "main.a2612546.css.map": "/crypto-stats/static/css/main.a2612546.css.map",
-    "main.8a420df3.js.map": "/crypto-stats/static/js/main.8a420df3.js.map"
+    "main.570335ff.css.map": "/crypto-stats/static/css/main.570335ff.css.map",
+    "main.15940ae8.js.map": "/crypto-stats/static/js/main.15940ae8.js.map"
   },
   "entrypoints": [
-    "static/css/main.a2612546.css",
-    "static/js/main.8a420df3.js"
+    "static/css/main.570335ff.css",
+    "static/js/main.15940ae8.js"
   ]
 }
