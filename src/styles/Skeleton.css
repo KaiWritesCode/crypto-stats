@@ -1,0 +1,29 @@
+.trending-skeleton-box {
+  padding: 0 10px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100px;
+  margin: 5px;
+  border: 1px solid rgba(131, 131, 131, 0.363);
+}
+
+.skeleton-container {
+  background-color: rgb(255, 255, 255);
+  border: 1px solid rgba(131, 131, 131, 0.363);
+  margin: 20px 0;
+}
+
+.skeleton-row {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 85px;
+  border-bottom: 1px solid hsla(0, 0%, 51%, 0.363);
+  padding: 0 15px;
+}
+
+.news-skeleton-box {
+  padding: 10px;
+  margin: 15px 0;
+}
