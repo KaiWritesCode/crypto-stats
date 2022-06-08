@@ -136,7 +136,7 @@ export default function InfoBoxes() {
             return <img src={item} alt="" />;
           })}
       </div>
-      <div className="info-desc">Top Volume Today</div>
+      <div className="info-desc">Top Market cap Today</div>
     </div>
   );
 
