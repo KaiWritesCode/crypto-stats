@@ -4,6 +4,7 @@ import { Link } from 'react-router-dom'
 import { Sparklines, SparklinesLine } from 'react-sparklines'
 import Pagination from '@mui/material/Pagination'
 import Stack from '@mui/material/Stack';
+import InfoBoxes from './InfoBoxes'
 import MainSkeleton from '../skeletons/MainSkeleton'
 
 
@@ -148,11 +149,14 @@ export default function MainDisplay({ inputValue }) {
     return (
         <>
             <div className="container">
+                <InfoBoxes />
+
                 {isLoading ?
                     <div className="skeleton-container">
                         <MainSkeleton />
                     </div>
                     :
+
                     <div className="main-section">
                         {topRow}
                         {coins}
